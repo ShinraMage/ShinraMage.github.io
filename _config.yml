@@ -30,14 +30,12 @@ feed:
 social:
   - platform: envelope
     url: mailto:mail@posetmage.com
-  - platform: linkedin
-    url: https://linkedin.com/in/posetmage
   - platform: youtube
-    url: https://youtube.com/@posetmage
+    url: https://youtube.com/@shinramage
   - platform: facebook
-    url: https://facebook.com/posetmage
+    url: https://facebook.com/shinramage
   - platform: twitter
-    url: https://twitter.com/posetmage
+    url: https://twitter.com/shinramage
   - platform: line
     url: https://line.me/ti/p/Out6J_7uOq
   - platform: telegram
