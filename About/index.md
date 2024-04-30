@@ -20,3 +20,8 @@ In this new world, I'm trying to discover the source of mana. I continue my jour
   * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
   * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
+
+
+<div id="subbrands"></div>
+
+<script src="{{ '/assets/js/Sub_Brands.js' | relative_url }}"></script>
