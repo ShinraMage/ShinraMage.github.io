@@ -23,4 +23,4 @@ In this new world, I'm trying to discover the source of mana. I continue my jour
 
 <div id="subbrands"></div>
 
-<script src="{{ '/assets/js/Sub_Brands.js' | relative_url }}"></script>
+<script src="https://posetmage.com/cdn/js/Sub_Brands.js"></script>
