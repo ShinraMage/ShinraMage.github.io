@@ -25,6 +25,12 @@ author: ShinraMage
 
 repository: ShinraMage/ShinraMage.github.io
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
 
 feed:
   output: true
