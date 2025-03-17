@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Contact
 permalink: /Contact/
 redirect_from:
   - /contact/
 ---
+
+# Contact
 
 <style>
   .contact-form {

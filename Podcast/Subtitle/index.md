@@ -1,8 +1,3 @@
----
-layout: page
----
-
-
 
 {% assign podcast_pages = site.pages | where_exp: "item", "item.url contains '/Podcast/'" %}
 {% assign sorted_podcast_pages = podcast_pages | sort: 'url' | reverse %}

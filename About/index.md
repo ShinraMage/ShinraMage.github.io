@@ -1,7 +1,4 @@
----
-layout: page
-title: About
----
+# About
 
 *I do not remember making that decision. This life, it chose me.*  
 <p align="right"><i>−−Ezio</i></p>
