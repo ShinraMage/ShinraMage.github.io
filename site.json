@@ -7,8 +7,8 @@
   "navigation": [
     { "title": "About", "url": "/About/" },
     { "title": "Blog", "url": "/Blog/" },
-    { "title": "GameDesign", "url": "/GameDesign/" },
     { "title": "Snippets", "url": "/Snippets/" },
+    { "title": "GameDesign", "url": "/GameDesign/" },
     { "title": "Contact", "url": "/Contact/" }
   ]
 }
