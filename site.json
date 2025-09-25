@@ -1,0 +1,14 @@
+{
+  "title": "森羅Mage",
+  "email": "shinra@posetmage.com",
+  "url": "https://shinra.posetmage.com",
+  "icon": "https://posetmage.com/Images/Icon/ShinraMage.svg",
+  "slogan": "撃って良いのは、撃たれる覚悟のある奴だけだ",
+  "navigation": [
+    { "title": "About", "url": "/About/" },
+    { "title": "Blog", "url": "/Blog/" },
+    { "title": "GameDesign", "url": "/GameDesign/" },
+    { "title": "Snippets", "url": "/Snippets/" },
+    { "title": "Contact", "url": "/Contact/" }
+  ]
+}
